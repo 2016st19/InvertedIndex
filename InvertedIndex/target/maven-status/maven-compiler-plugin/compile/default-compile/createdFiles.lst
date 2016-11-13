@@ -1,0 +1,5 @@
+InvertedIndex$InvertedIndexReducer.class
+InvertedIndex$InvertedIndexMapper.class
+InvertedIndex$NewPartitioner.class
+InvertedIndex$SumCombiner.class
+InvertedIndex.class
